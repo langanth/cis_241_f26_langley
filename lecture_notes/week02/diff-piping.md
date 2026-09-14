@@ -6,6 +6,9 @@
 - Options to ignore whitespace, blank lines, cases
 - Example: diff file1 file2
 - Show instructions for changing file1 to file2
+	- a - add
+	- c - change
+	- d -delete
 - sdiff shows side-by-side
 
 # Piping
