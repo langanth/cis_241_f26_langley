@@ -11,9 +11,9 @@
 		```
 		tr [:upper:] [:lower:] <
 		inputfile
-		tr [A-Z] [a-z] inputfile
+		tr [A-Z] [a-z] < inputfile
 		```
-		- Delete characters tr -d 'N'
+		- Delete characters tr -d 'N' < inputfile
 
 # WC
 - Default (no options) outputs: lines, words, bytes Ex: `wc filename`
