@@ -1,4 +1,5 @@
-#cis-241 #linux
+[Previous: Linux Filesystem](linux_filesystem.md)
+
 # Viewing Files
 - `wget` - download file into directory
 - `cat - print out file
@@ -16,3 +17,5 @@
 - apropos for searching manpages
 	- Example `apropos "remove file"`
 	- Example `apropos "remote"`
+
+ [Next: Transferring Files](transferring_files.md)
