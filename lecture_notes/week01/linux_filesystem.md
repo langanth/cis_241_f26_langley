@@ -1,4 +1,4 @@
-#cis-241 #linux 
+[Previous: SSH](ssh.md)
 
 # Linux Filesystem
 - Hierarchical filesystem
@@ -25,3 +25,5 @@
 		- -a and -l are options
 	- how do we know available options?
 	- most have a --help option too
+
+[Next: Viewing Files](viewing_files.md)
