@@ -1,6 +1,4 @@
-#cis-241 #linux 
-
-[[diff-piping| Prev (diff/piping)]]
+[Previous: DIFF/PIPING](diff-piping.md)
 
 # GREP
 - Search file for string
@@ -21,3 +19,5 @@
 - More details: `man 7 glob` (on linux)
 - globbing: pathname epansion
 - commands only see list of matching filenames
+
+[Next: VIM](VIM.md)
