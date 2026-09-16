@@ -1,4 +1,4 @@
-#linux #ssh
+[Previous: Introduction to CIS 241](intro_to_cis_241.md)
 
 # SSH
 
@@ -54,3 +54,4 @@
 
 ## Wait! How do I leave?!
 - exit
+[Next: Linux Filesystem](linux_filesystem.md)
