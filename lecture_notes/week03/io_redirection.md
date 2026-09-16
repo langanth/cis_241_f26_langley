@@ -1,6 +1,4 @@
-#cis-241 #linux 
-
-[[Script History|Prev (Script History)]]
+[Previous: Script/History](../week02/script_history.md)
 
 # Redirecting STDIN/STDOUT/STDERR
 - stdin - what you type into terminal
@@ -12,4 +10,4 @@
 	- >> appends
 - Redirecting stderr: 2>
 
-[[Linux Utilities|Next (Linux Utilities)]]
+[Next: Linux Utilities](../week02/linux_utilities.md)
