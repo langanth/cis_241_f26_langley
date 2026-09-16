@@ -1,3 +1,5 @@
+[Previous: Viewing Files](viewing_files.md)
+
 # SCP
 - `ssh` allowed us to securely access a shell on remote devices
 - What about moving files?
@@ -17,3 +19,5 @@
 - Example
 	- `rsync filename username@hostname:~`
 - Many options: recursive, delete, ...
+
+[Next: More SSH](cis_241_f26/lecture_notes/week02/more_ssh.md)
