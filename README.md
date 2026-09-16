@@ -13,7 +13,7 @@ This course should help acquaint you with:
 
 ### Helpful Links
 
-* [Syllabus](syllabus.md)
+* [Syllabus](syllabus.pdf)
 
 * [PrairieLearn](https://us.prairielearn.com/pl/course_instance/172675) - log-in
   using "Google" and use your GVSU gmail account
