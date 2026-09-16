@@ -2,7 +2,7 @@
 
 # Viewing Files
 - `wget` - download file into directory
-- `cat - print out file
+- `cat` - print out file
 - `less` and `more`
 - `head` - show beginning lines of file (default 10)
 - `tail` - show last lines of file (default 10)
