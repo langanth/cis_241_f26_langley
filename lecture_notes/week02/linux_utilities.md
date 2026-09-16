@@ -1,6 +1,4 @@
-#cis-241 #linux
-
-[[IO redirection|Prev (IO redirection)]]
+[Previous: IO Redirection](../week03/io_redirection.md
 
 # Basic File Manipulation
 - cut - accessing specific fields from delimited files
@@ -23,5 +21,5 @@
 	- Ex: `wc -l filename` - just number of lines
 	- Ex: `wc -, filename` - number of chars
 
-[[Compression|Next (Compression)]]
+[Next: Compression](../week03/compression.md)
 
