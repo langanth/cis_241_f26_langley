@@ -1,4 +1,4 @@
-[Previous: IO Redirection](../week03/io_redirection.md
+[Previous: IO Redirection](../week03/io_redirection.md)
 
 # Basic File Manipulation
 - cut - accessing specific fields from delimited files
