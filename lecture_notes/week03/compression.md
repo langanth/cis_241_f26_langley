@@ -1,6 +1,5 @@
-#cis-241 #linux 
+[Previous: Linux Utilities](../week02/linux_utilities.md)
 
-[[Linux Utilities|Prev (Linux Utilities)]]
 # Compressing Files
 - Multiple different options
 	- bzip2 - better compression
@@ -22,4 +21,4 @@
 		- tar -tvf all.tar
 - What does the -v stand for?
 
-[[diff-piping|Next (diff/piping)]]
+[Next: DIFF/PIPING](diff-piping.md)
