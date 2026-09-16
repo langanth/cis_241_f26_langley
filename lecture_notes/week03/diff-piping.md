@@ -1,6 +1,5 @@
-#cis-241 #linux 
+[Previous: DIFF/PIPING](diff-piping.md)
 
-[[Compression|Prev (Compression)]]
 # Diff/Piping
 - Compare text files
 - Options to ignore whitespace, blank lines, cases
@@ -18,4 +17,4 @@
 - Examples:
 	- `ls | wc -1: count number of files`
 	
-[[grep|Next (grep)]]
+[Next: GREP](grep.md)
