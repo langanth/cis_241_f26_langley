@@ -20,4 +20,4 @@
 	- `rsync filename username@hostname:~`
 - Many options: recursive, delete, ...
 
-[Next: More SSH](../lecture_notes/week02/more_ssh.md)
+[Next: More SSH](../week02/more_ssh.md)
