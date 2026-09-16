@@ -20,4 +20,4 @@
 	- Will improve your high level programming
 	- Still used in embedded systems
 
- [Next](ssh.md)
+ [Next: SSH](ssh.md)
