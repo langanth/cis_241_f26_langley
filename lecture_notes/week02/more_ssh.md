@@ -1,5 +1,4 @@
-#cis-241 #linux
-[[Transferring Files|Prev (Transferring Files)]]
+[Previous: Transferring Files](../week01/transferring_files.md)
 
 # SSH Hostname Aliases
 - Allows you to type short name without username
@@ -38,4 +37,4 @@ User yourusername
 		`ssh username@hostname`
 		`cat id_rsa.pub >> .ssh/authorized_keys`
 
-[[Script History|Next (Script/History)]]
+[Next: Script/History](script_history.md)
