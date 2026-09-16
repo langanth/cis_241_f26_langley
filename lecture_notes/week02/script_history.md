@@ -1,6 +1,4 @@
-#cis-241 #linux 
-
-[[More SSH|Prev (More SSH)]]
+[Previous: More SSH](more_ssh.md)
 
 # Recording A Shell Session
 - script command to start
@@ -13,4 +11,4 @@
 - history - see previous command list
 - history count - shows last count commands
 
-[[IO redirection|Next (Script History)]]
+[Next: IO Redirection](../week03/io_redirection.md)
