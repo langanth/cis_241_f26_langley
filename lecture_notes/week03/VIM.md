@@ -1,5 +1,4 @@
-#cis-241 #linux 
-[[GREP|Prev (Grep)]]
+[Previous: GREP](grep.md)
 
 # Launching VIM
 - `vim`
