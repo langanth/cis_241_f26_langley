@@ -1,4 +1,4 @@
-[Previous: DIFF/PIPING](diff-piping.md)
+[Previous: Compression](compression.md)
 
 # Diff/Piping
 - Compare text files
