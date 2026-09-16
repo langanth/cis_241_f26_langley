@@ -70,6 +70,7 @@ mv file.txt /path/to/dest/     # move
 
 ```bash
 ssh user@hostname
+ssh alias
 ssh -p 2222 user@hostname   # specify a port
 ssh -i keyfile.pem user@hostname  # use a specific key
 ```
