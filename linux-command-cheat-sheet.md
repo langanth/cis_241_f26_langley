@@ -86,6 +86,7 @@ scp -r folder/ user@host:/remote/path/     # copy directory
 ### `rsync` — Sync Files/Directories
 
 ```bash
+rsync --checksum -v source/ dest/
 rsync -av source/ dest/                     # local sync, archive mode + verbose
 rsync -avz source/ user@host:/remote/path/  # sync to remote, compressed
 rsync -av --delete source/ dest/            # mirror (deletes extra files in dest)
