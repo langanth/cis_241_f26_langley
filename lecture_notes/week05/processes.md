@@ -21,7 +21,7 @@
 - jobs to show foreground, background, and suspended processes
 
 # Stopping a process
-- ctrl + C to stop the process in the goreground
+- ctrl + C to stop the process in the foreground
 - Stopping a process in background/suspended:
 	- kill pid (attempts to stop process gracefully)
 	- kill -9 pid (force kill)
