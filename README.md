@@ -35,7 +35,7 @@ about other CS topics, grad school, etc.)
 | 3    | 2026-09-14 | Compression, diff, piping, vim, grep                                                                           |
 | 4    | 2026-09-21 | git                                                                                                            |
 | 5    | 2026-09-28 | permissions, processes, bash scripting                                                                         |
-| 6    | 2026-10-05 | More bash scripting, regex                                                                                     |
+| 6    | 2026-10-05 | More bash scripting, regex, [Checkin 04](https://github.com/langanth/check_in_05_git_remotes)                                                                                    |
 | 7    | 2026-10-12 | sed, (maybe) gawk                                                                                              |
 | 8    | 2026-10-19 | ***Midterm Exam***                                                                                             |
 | 9    | 2026-10-26 | **Fall Break October 25-27**<br>Intro to C                                                                     |
