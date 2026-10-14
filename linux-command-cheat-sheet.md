@@ -1,7 +1,5 @@
 # Linux Cheat Sheet
 
-
-
 ## Navigation & File Management
 
 ### `pwd` — Print Working Directory
@@ -236,3 +234,19 @@ Navigate: `Space` (next page), `/text` (search), `q` (quit).
 |`gzip` / `gunzip`|Compress/decompress .gz|
 |`bzip2` / `bunzip2`|Compress/decompress .bz2|
 |`man`|View manual pages|
+
+## regex cheat sheet
+| Char   | Use                               | Example                         |
+| ------ | --------------------------------- | ------------------------------- |
+| \      | escape special character          | a`\`+b matches "a+b"            |
+| .      | wildcard -match any character     | .ord matches "word", "cord"     |
+| [ ]    | character class                   | [bB]ob matches "bob", Bob"      |
+| ^      | beginning of line                 | ^B matches "B" at start of line |
+| $      | end of line                       | !$ matches "!" ending line      |
+| *      | match 0 or more occurrences       | bo* matches "b", "boooo"        |
+| ?      | match 0 or 1 occurrences          | bo? matches "b", "bo"           |
+| +      | match 1 or more occurrences       | bo+ matches "bo", <br>"boooo"   |
+| {n}    | match exactly n occurrences       | bo{2} matches "boo"             |
+| {n, m} | match between n and m occurrences | bo{1,2} matches "bo", "boo"     |
+| ( )    | group characters                  | (da)* matches "da", "dada"      |
+| \|     | match previous or next            | hi\|bye match "hi", "bye"       |
