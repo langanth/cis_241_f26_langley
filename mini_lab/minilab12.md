@@ -18,7 +18,7 @@ email addresses.
    don't match and redirect the non-valid emails
    to a file called `non-valid.txt`
 5. Run your script with all 3 files in  
-   [misc_files/minilab-email-regex/](https://github.com/cis241-gvsu/w22-classmaterial/tree/master/misc-files/minilab-email-regex).
+   [misc_files/minilab-email-regex/](https://github.com/langanth/cis_241_f26_langley/tree/main/misc_files/week_07/mini-lab-emails).
 
 
 ## Valid Email Addresses
