@@ -234,7 +234,22 @@ Navigate: `Space` (next page), `/text` (search), `q` (quit).
 |`gzip` / `gunzip`|Compress/decompress .gz|
 |`bzip2` / `bunzip2`|Compress/decompress .bz2|
 |`man`|View manual pages|
+## Git Cheat Sheet
 
+| Command                               | Use                                                                                          |
+| ------------------------------------- | -------------------------------------------------------------------------------------------- |
+| git init                              | creates new git repo                                                                         |
+| git add [filename]<br>git add .       | stages changes to file<br>stages changes to all files in rep                                 |
+| git commit -m "message"<br>git commit | commit changes with message<br>commit changes then pulls up editor for commit message        |
+| git status                            | states which files have been added/changed since last commit and which files are not tracked |
+| git diff<br>git diff [file]           | can see how a file has changed since last commit                                             |
+| git mv                                | rename or move                                                                               |
+| git rm                                | remove                                                                                       |
+| git log                               | shows you the history of our commits                                                         |
+| git restore --staged file             | unstages file                                                                                |
+| git restore --staged --worktree .     | restores staged files                                                                        |
+| git reset --hard                      | reset changes and possibly deletes untracked files                                           |
+| git push -u origin main               | pushes commit to main branch                                                                 |
 ## regex cheat sheet
 | Char   | Use                               | Example                         |
 | ------ | --------------------------------- | ------------------------------- |
