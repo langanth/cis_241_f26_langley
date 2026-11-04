@@ -41,3 +41,20 @@
 	- runtime (dynamic) memory allocation
 		- heap
 		- ex: anything using malloc(), calloc(), realloc()
+
+
+```
+#include <stdio.h>
+
+int main(void) {
+	int a = 5;
+	int b = 6;
+	int c;
+	int *iptr;
+	int *jptr;
+
+	jptr = &a;
+	ipter = &c;
+	*iptr = 100;
+}
+```
