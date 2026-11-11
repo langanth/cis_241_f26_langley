@@ -1,2 +1,2 @@
-/[tT]otals*/ d
-1 d
+/[tT]otal.*/ d
+1, 2 d
