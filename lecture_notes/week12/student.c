@@ -26,7 +26,15 @@ void print_info(struct Student *student){
 int main(void){
 	
 	//Student student1;
+	/*
+	student1.age = 20;
+	student1.gpa = 3.75;
+	scanf("%49s\n", student1.name);
+	print_info(student1);
+	*/
 	Student *student1;
+	student1 = (Student *) malloc(sizeof(Student));
+
 	student1->age = 20;
 	student1->gpa = 3.75;
 	printf("Enter student name: ");
@@ -39,6 +47,7 @@ int main(void){
 	print_info(student1);
 	real_birthday(student1);
 	print_info(student1);
+	free(student1);
 	return 0;
 
 }
