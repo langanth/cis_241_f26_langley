@@ -87,7 +87,7 @@ program: program.o sum.o
 
 ## Misc
 - Can break up long lines with \
-- Add comment with #  n]
+- Add comment with #
 
 ## Other Rules
 - Typically have a clean rule
